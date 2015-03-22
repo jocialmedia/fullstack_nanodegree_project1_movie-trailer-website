@@ -5,13 +5,13 @@
 This is a project which features my favorite hundred movies.
 
 
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/moviepage_screenshot.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/blob/master/moviepage_screenshot.png)
 This is the fullscreen view of the page.
 
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/moviepage_menu.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/blob/master/moviepage_menu.png)
 This is the menu which allows to sort the movies by name, year, runtime and my own rating.
 
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/moviepage_detailinfo.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/blob/master/moviepage_detailinfo.png)
 After clicking on any of the movies an infobox appears, which shows the movie poster and detailed informaton. This also includes separate buttons which link to the films Wikipedia article or its entry in the "International Movie Database(IMDB). Other buttons open a direct search for the film title at Bing, DuckDuckGo and Google. In the lower right corner of the infobox the movies trailer is embedded.
 
 
@@ -25,7 +25,7 @@ git clone https://github.com/jocialmedia/fullstack_nanodegree_drawing_txt_with_p
 ```
 3. Open Python and run the file **moviepage_install.py**. 
 
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/moviepage_installmessages.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/blob/master/moviepage_installmessages.png)
 This is what you should see.
 
 4. Open the browser of your choice and go to the projectfolder **fullstack_nanodegree_project1_movie-trailer-website**. After running the install-file in Python, you should now find a folder **moviepage** with an **index.html** which will be automatically found and read by your browser.
@@ -53,4 +53,3 @@ Because I found myself in kind of a dilemma. On the one hand I wanted to create 
 ## This was done for [Project 1 - Movie Trailer Website]
 as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004) 
 March 2015
-More Information at [Github](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website)
