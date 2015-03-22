@@ -25,7 +25,7 @@ Step 1. Make sure you have PHP, Get and Python installed on your computer and yo
 Step 2. Get this code on your computer by going into the designated root folder of your virtual server (f.e. **htdocs**) and run
 
 ```
-git clone https://github.com/jocialmedia/fullstack_nanodegree_drawing_txt_with_python.git
+git clone https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website.git
 ```
 
 Step 3. Open Python and run the file **moviepage_install.py**. 
