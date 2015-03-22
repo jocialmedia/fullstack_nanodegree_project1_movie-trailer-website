@@ -55,6 +55,14 @@ I used my own already existing list of movies, which I rated with 1 to 10 stars.
 ##### Why do you create a json-file from a hundred single Python class calls? 
 Because I found myself in kind of a dilemma. On the one hand I wanted to create a website with high usability, which lets the user manipulate the order of the movies and necessitates the use of Json and Javascript. On the other hand I did not want to leave the framework of this exercise, which focuses on "a page, which is dynamically generated from a Python data structure". So I found it to be an interesting solution to create the basic list in MySQL, export it to Json and use a separate Python file to recreate the hundred single class calls in moviepage_install.py.
 
+##### Which additional resources did you use?
+[Udacity](https://www.udacity.com/course/nd004) (code fragments)
+[Jquery](https://jquery.com/) (Code)
+[Twitter Bootstrap](http://getbootstrap.com) (Layout)
+[Wikipedia](http://www.wikipedia.org) (Information, Movie-Posters, Wikipedia-Url)
+[IMDB](http://www.imdb.com) (IMDB-Ids)
+[Youtube](https://www.youtube.com) (Youtube-Ids for Trailer)
+
 --- 
 This was done for [Project 1 - Movie Trailer Website]
 as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004)
