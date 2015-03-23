@@ -15,12 +15,12 @@ This is the menu, which allows sorting the movies by name, year, runtime and my 
 
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project1_movie-trailer-website/blob/master/moviepage_detailinfo.png)
 
-After clicking on any of the movies an info box appears, which shows the movie poster and detailed information. This also includes separate buttons which link to the films Wikipedia article or its entry in the "International Movie Database (IMDB). Other buttons open a direct search for the film title at Bing, DuckDuckGo and Google. In the lower right corner of the info box the movies trailer is embedded.
+After clicking on any of the movies an info box appears, which shows the movie poster and detailed information. This also includes separate buttons which link to the films Wikipedia article or its entry in the International Movie Database (IMDB). Other buttons open a direct search for the film title at Bing, DuckDuckGo or Google. In the lower right corner of the info box the movies trailer is embedded.
 
 
 #### Installation 
 
-Step 1. Make sure you have PHP, Get and Python installed on your computer and your virtual server running.
+Step 1. Make sure you have PHP, Git and Python 2.7. installed on your computer and your virtual server running.
 
 Step 2. Get this code on your computer by going into the designated root folder of your virtual server (f.e. **htdocs**) and run
 
@@ -34,7 +34,7 @@ Step 3. Open Python and run the file **moviepage_install.py**.
 
 This is what you should see.
 
-Step 4. Open the browser of your choice and go to the project folder **fullstack_nanodegree_project1_movie-trailer-website**. After running the install-file in Python, you should now find a folder **movie page** with an **index.html** which will be automatically found and read by your browser.
+Step 4. Open the browser of your choice and go to the project folder **fullstack_nanodegree_project1_movie-trailer-website**. After running the install-file in Python, you should now find a folder **moviepage** with an **index.html** which will be automatically found and read by your browser.
 
 
 #### How does it work? 
@@ -49,7 +49,7 @@ Step 4. Open the browser of your choice and go to the project folder **fullstack
 # Additional Remarks
 
 ##### How did you pick the movies?
-I used my own already existing list of movies, which I rated with 1 to 10 stars. I also excluded franchise movies like "Lord Of the Rings", "Star Wars" or "Matrix" to get a more diverse and interesting selection.  Afterwards I compiled a list of the best ones with a rating from 8 and higher and came to a number of exactly a hundred.
+I used my own already existing list of movies, which I rated with 1 to 10 stars. I excluded franchise movies like "Lord Of the Rings", "Star Wars" or "Matrix" to get a more diverse and interesting selection.  Afterwards I compiled a list of the best ones with a rating from 8 and higher and came to a number of exactly a hundred.
 
 
 ##### Why do you create a json-file from a hundred single Python class calls? 
@@ -64,6 +64,6 @@ Because I found myself in kind of a dilemma. On the one hand I wanted to create 
 * [Youtube](https://www.youtube.com) (Youtube-Ids for Trailer)
 
 --- 
-This was done for [Project 1 - Movie Trailer Website]
+This was done for **Project 1 - Movie Trailer Website**
 as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004)
 March 2015
